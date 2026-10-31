@@ -1,0 +1,15 @@
+{
+  "name": "shikigami-skills",
+  "description": "Agent Skills for Shikigami, the desktop app that runs coding agents side by side",
+  "owner": {
+    "name": "Igor Nastarowicz",
+    "url": "https://github.com/igornast"
+  },
+  "plugins": [
+    {
+      "name": "shikigami",
+      "source": "./",
+      "description": "Skills for coordinating agents through the Shikigami MCP server"
+    }
+  ]
+}

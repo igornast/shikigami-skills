@@ -1,0 +1,13 @@
+{
+  "name": "shikigami",
+  "version": "0.1.0",
+  "description": "Skills for coordinating agents through the Shikigami MCP server",
+  "author": {
+    "name": "Igor Nastarowicz",
+    "url": "https://github.com/igornast"
+  },
+  "homepage": "https://shikigami.dev",
+  "repository": "https://github.com/igornast/shikigami-skills",
+  "license": "MIT",
+  "keywords": ["shikigami", "agent-skills", "multi-agent", "mcp", "supervisor"]
+}

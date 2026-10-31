@@ -1,0 +1,13 @@
+# Local agent and IDE state
+.claude/
+.shiki/
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor leftovers
+*.swp
+*~
